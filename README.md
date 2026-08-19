@@ -29,7 +29,7 @@ A full-stack platform that helps people actually understand credit and manage mo
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary
 - **Frontend:** React, Tailwind CSS, React Router, Axios
 - **AI layer:** Gemini API for in-app financial guidance and chat
-
+- **Real Time Communication:** Socket.io
 
 <br>
 
@@ -43,11 +43,15 @@ A full-stack platform that helps people actually understand credit and manage mo
 
 <br>
 
-## 📊 LeetCode
+## 📊 Stats
 
-400+ problems solved across Arrays, Strings, Trees, Graphs, DP, and more · 🔥 Max Streak: **XXX days** · 5⭐ C++ badge + Problem Solving (Gold) on [HackerRank](https://www.hackerrank.com/profile/lakshyaagrawal72)
+<h3 align="center" >
+  400+ problems solved across Arrays, Strings, Trees, Graphs, and more · 🔥 Max Streak: <b>366 days</b> · 5⭐ C++ badge + Problem Solving (Gold)       on [HackerRank](https://www.hackerrank.com/profile/lakshyaagrawal72)
+</h3>
 
-[![Lakshya's LeetCode stats](https://leetcard.jacoblin.cool/lakshyaagrawal_?ext=heatmap)](https://leetcode.com/u/lakshyaagrawal_/)
+<div align="center">
+  [![Lakshya's LeetCode stats](https://leetcard.jacoblin.cool/lakshyaagrawal_?ext=heatmap)](https://leetcode.com/u/lakshyaagrawal_/)
+</div>
 
 <br>
 
