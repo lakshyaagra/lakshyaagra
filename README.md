@@ -49,9 +49,7 @@ A full-stack platform that helps people actually understand credit and manage mo
   400+ problems solved across Arrays, Strings, Trees, Graphs, and more · 🔥 Max Streak: <b>366 days</b> · 5⭐ C++ badge + Problem Solving (Gold)       on [HackerRank](https://www.hackerrank.com/profile/lakshyaagrawal72)
 </h3>
 
-<div align="center">
-  [![Lakshya's LeetCode stats](https://leetcard.jacoblin.cool/lakshyaagrawal_?ext=heatmap)](https://leetcode.com/u/lakshyaagrawal_/)
-</div>
+ &emsp;&emsp;&emsp; [![Lakshya's LeetCode stats](https://leetcard.jacoblin.cool/lakshyaagrawal_?ext=heatmap)](https://leetcode.com/u/lakshyaagrawal_/)
 
 <br>
 
