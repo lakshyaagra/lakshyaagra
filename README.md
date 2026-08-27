@@ -24,7 +24,7 @@
 
 ## What I'm Building Currently
 
-### Arventra — Personal Finance & Credit Mentorship Platform
+**[Arventra](https://github.com/lakshyaagra/project_udaan-ARVENTRA)** — Personal Finance & Credit Mentorship Platform
 
 Arventra is a full-stack financial platform focused on helping users better understand and manage their finances.
 
