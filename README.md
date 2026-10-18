@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80e24c04-fbc2-4073-aaa5-6ae7994161bf" /><div align="center">
+<div align="center">
   <img src="./.github/animated-profile-header.svg" width="100%" alt="Lakshya Agarwal — Aspiring Software Development Engineer" />
 </div>
 <br>
